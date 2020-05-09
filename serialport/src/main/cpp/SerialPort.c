@@ -71,8 +71,6 @@ static speed_t getBaudrate(jint baudrate) {
             return B115200;
         case 230400:
             return B230400;
-        case 280000:
-            return B280000;
         case 460800:
             return B460800;
         case 500000:
